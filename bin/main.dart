@@ -1,5 +1,4 @@
 import 'package:dart_object_oriented/assinment/assainment2.dart';
-
 void main() {
 SavingsAccount savingsAccount = SavingsAccount(12345, 1000, 0.05);
   savingsAccount.deposit(500);
